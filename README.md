@@ -58,5 +58,4 @@ Tämä materiaalipaketti on rakennettu siten, että sitä voi käydä läpi jär
 Katso erillinen [lähteet ja lisämateriaalit](7-lahteet.md) -tiedosto.
 
 ---
-
-*Materiaalipaketti on luotu oppimisen tueksi. Arviointi: Hyväksytty / Hylätty*
+Materiaalipaketti luotu Claude Desktopin avulla ja se voi sisältää virheitä:)
